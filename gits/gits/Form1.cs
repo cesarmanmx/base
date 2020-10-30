@@ -19,7 +19,7 @@ namespace gits
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text += "Texto alterardo ";
+            label1.Text += "dos ligas";
         }
     }
 }
