@@ -1,0 +1,9 @@
+C:\repos\nombres\gits\gits\bin\Debug\gits.exe.config
+C:\repos\nombres\gits\gits\bin\Debug\gits.exe
+C:\repos\nombres\gits\gits\bin\Debug\gits.pdb
+C:\repos\nombres\gits\gits\obj\Debug\gits.Form1.resources
+C:\repos\nombres\gits\gits\obj\Debug\gits.Properties.Resources.resources
+C:\repos\nombres\gits\gits\obj\Debug\gits.csproj.GenerateResource.Cache
+C:\repos\nombres\gits\gits\obj\Debug\gits.csproj.CoreCompileInputs.cache
+C:\repos\nombres\gits\gits\obj\Debug\gits.exe
+C:\repos\nombres\gits\gits\obj\Debug\gits.pdb
